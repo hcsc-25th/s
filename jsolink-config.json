@@ -1,0 +1,35 @@
+{
+  "webpagetitle" : "",
+  "htmltitle" : "",
+  "accountname" : "@hcsc.25th_lab_delight",
+  "profilepicture" : "/img/profilePicture-20210522.jpg",
+  "description" : "<img style='width:100%;max-width: 750px;' src='/img/beaker.gif'></img>",
+  "footer" : "",
+  "htmlelement" : "",
+  "links" : [
+    {
+      "htmlbefore" : "",
+      "buttonname" : "HOME PAGE",
+      "href" : "/",
+      "target" : "",
+      "enable" : "enable",
+      "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
+      "buttonname" : "IG 連結",
+      "href" : "https://hcsc-25th.bitbucket.io/s/IG/",
+      "target" : "",
+      "enable" : "enable",
+      "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
+      "buttonname" : "BLOG",
+      "href" : "https://blog-hcsc-25th.bitbucket.io/",
+      "target" : "_blank",
+      "enable" : "",
+      "nofollow" : ""
+    }
+  ]
+}
