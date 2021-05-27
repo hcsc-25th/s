@@ -18,7 +18,7 @@
     {
       "htmlbefore" : "",
       "buttonname" : "IG 連結",
-      "href" : "https://hcsc-25th.bitbucket.io/s/IG/",
+      "href" : "IG/",
       "target" : "",
       "enable" : "enable",
       "nofollow" : ""
@@ -26,7 +26,7 @@
     {
       "htmlbefore" : "",
       "buttonname" : "BLOG",
-      "href" : "https://blog-hcsc-25th.bitbucket.io/",
+      "href" : "blog/",
       "target" : "_blank",
       "enable" : "",
       "nofollow" : ""
