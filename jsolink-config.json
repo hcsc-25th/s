@@ -4,7 +4,7 @@
   "accountname" : "@hcsc.25th_lab_delight",
   "profilepicture" : "img/profilePicture-20210528.png",
   "description" : "<img style='width:100%;max-width: 750px;' src='img/beaker.gif'></img>",
-  "footer" : "",
+  "footer" : "<a href='IG/' style='font-size:40px'><i class='fab fa-instagram'></i></a>",
   "htmlelement" : "",
   "links" : [
     {
@@ -19,14 +19,6 @@
       "htmlbefore" : "",
       "buttonname" : "幹部...",
       "href" : "/about/",
-      "target" : "",
-      "enable" : "enable",
-      "nofollow" : ""
-    },
-    {
-      "htmlbefore" : "",
-      "buttonname" : "IG 連結",
-      "href" : "IG/",
       "target" : "",
       "enable" : "enable",
       "nofollow" : ""
