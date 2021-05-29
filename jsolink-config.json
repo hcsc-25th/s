@@ -18,7 +18,7 @@
     {
       "htmlbefore" : "",
       "buttonname" : "幹部...",
-      "href" : "about/",
+      "href" : "/about/",
       "target" : "",
       "enable" : "enable",
       "nofollow" : ""
