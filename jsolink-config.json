@@ -38,6 +38,14 @@
       "target" : "",
       "enable" : "enable",
       "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "<",
+      "buttonname" : "備用的網站",
+      "href" : "https://hcsc-25th.codeberg.page/",
+      "target" : "",
+      "enable" : "enable",
+      "nofollow" : ""
     }
   ]
 }
