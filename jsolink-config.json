@@ -40,7 +40,7 @@
       "nofollow" : ""
     },
     {
-      "htmlbefore" : "<",
+      "htmlbefore" : "<hr>",
       "buttonname" : "備用的網站",
       "href" : "https://hcsc-25th.codeberg.page/",
       "target" : "",
