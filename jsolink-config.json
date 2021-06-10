@@ -18,7 +18,7 @@
     {
       "htmlbefore" : "",
       "buttonname" : "關於...",
-      "href" : "about/",
+      "href" : "/about/",
       "target" : "",
       "enable" : "enable",
       "nofollow" : ""
