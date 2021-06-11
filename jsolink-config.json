@@ -33,18 +33,18 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "BLOG",
-      "href" : "blog/",
-      "target" : "_blank",
-      "enable" : "",
-      "nofollow" : ""
-    },
-    {
-      "htmlbefore" : "",
       "buttonname" : "我有問題！",
       "href" : "question/",
       "target" : "",
       "enable" : "enable",
+      "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
+      "buttonname" : "BLOG",
+      "href" : "blog/",
+      "target" : "_blank",
+      "enable" : "",
       "nofollow" : ""
     }
   ]
