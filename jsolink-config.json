@@ -38,6 +38,14 @@
       "target" : "_blank",
       "enable" : "",
       "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
+      "buttonname" : "IG qrcode",
+      "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/igqr.html')",
+      "target" : "",
+      "enable" : "enable",
+      "nofollow" : ""
     }
   ]
 }
