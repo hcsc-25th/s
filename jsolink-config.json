@@ -25,14 +25,6 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "關於...",
-      "href" : "/about/",
-      "target" : "",
-      "enable" : "enable",
-      "nofollow" : ""
-    },
-    {
-      "htmlbefore" : "",
       "buttonname" : "我有問題！",
       "href" : "question/",
       "target" : "",
