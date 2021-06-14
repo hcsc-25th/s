@@ -37,7 +37,7 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "BLOG",
+      "buttonname" : "Blog",
       "href" : "blog/",
       "target" : "_blank",
       "enable" : "",
@@ -46,17 +46,25 @@
     {
       "htmlbefore" : "",
       "buttonname" : "IG qrcode",
-      "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/igqr.html')",
+      "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/igqr.html','IG qrcode')",
       "target" : "",
       "enable" : "enable",
       "nofollow" : ""
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "videos",
+      "buttonname" : "Videos",
       "href" : "https://odysee.com/@hcsc-25th:e",
       "target" : "_blank",
       "enable" : "",
+      "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
+      "buttonname" : "Attribution",
+      "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/attribution.html','attribution')",
+      "target" : "",
+      "enable" : "enable",
       "nofollow" : ""
     }
   ]
