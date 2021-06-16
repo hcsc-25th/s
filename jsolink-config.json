@@ -40,7 +40,7 @@
       "buttonname" : "Blog",
       "href" : "blog/",
       "target" : "_blank",
-      "enable" : "",
+      "enable" : "enable",
       "nofollow" : ""
     },
     {
