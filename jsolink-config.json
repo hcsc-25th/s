@@ -38,7 +38,7 @@
     {
       "htmlbefore" : "",
       "buttonname" : "Blog",
-      "href" : "blog/",
+      "href" : "/blog/",
       "target" : "_blank",
       "enable" : "enable",
       "nofollow" : ""
