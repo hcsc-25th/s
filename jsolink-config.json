@@ -7,8 +7,8 @@
   "footer" : "<a href='IG/' style='font-size:40px'><i class='fab fa-instagram'></i></a>",
   "htmlelement" : "",
   "toast" : {
-    "message" : "Hi 歡迎！",
-    "href" : ""
+    "message" : "新文章！宣幹",
+    "href" : "https://hcsc-25th.github.io/blog/2021/06/15/announce-leaders/"
   },
   "links" : [
     {
@@ -49,14 +49,6 @@
       "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/igqr.html','IG qrcode')",
       "target" : "",
       "enable" : "enable",
-      "nofollow" : ""
-    },
-    {
-      "htmlbefore" : "",
-      "buttonname" : "Videos",
-      "href" : "https://odysee.com/@hcsc-25th:e",
-      "target" : "_blank",
-      "enable" : "",
       "nofollow" : ""
     },
     {
