@@ -45,6 +45,14 @@
     },
     {
       "htmlbefore" : "",
+      "buttonname" : "竹中科研ig無用25+logo濾鏡",
+      "href" : "https://www.instagram.com/ar/1971373626361141/",
+      "target" : "",
+      "enable" : "enable",
+      "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
       "buttonname" : "IG qrcode",
       "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/igqr.html','IG qrcode')",
       "target" : "",
