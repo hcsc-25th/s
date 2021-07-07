@@ -37,14 +37,6 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "Videos",
-      "href" : "https://odysee.com/@hcsc-25th:e",
-      "target" : "_blank",
-      "enable" : "enable",
-      "nofollow" : ""
-    },
-    {
-      "htmlbefore" : "",
       "buttonname" : "Blog",
       "href" : "/blog/",
       "target" : "_blank",
