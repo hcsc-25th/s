@@ -7,8 +7,8 @@
   "footer" : "<a href='IG/' style='font-size:40px'><i class='fab fa-instagram'></i></a>",
   "htmlelement" : "",
   "toast" : {
-    "message" : "我有問題是讓你可以匿名問問題的表單！",
-    "href" : ""
+    "message" : "看看最新的竹中科研濾鏡吧！",
+    "href" : "https://hcsc-25th.github.io/filter/"
   },
   "links" : [
     {
@@ -23,14 +23,6 @@
       "htmlbefore" : "",
       "buttonname" : "竹中科研ig濾鏡",
       "href" : "/filter/",
-      "target" : "",
-      "enable" : "enable",
-      "nofollow" : ""
-    },
-    {
-      "htmlbefore" : "",
-      "buttonname" : "我有問題！",
-      "href" : "question/",
       "target" : "",
       "enable" : "enable",
       "nofollow" : ""
