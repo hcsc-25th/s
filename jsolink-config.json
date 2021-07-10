@@ -4,7 +4,7 @@
   "accountname" : "@hcsc.25th_lab_delight",
   "profilepicture" : "img/profilePicture-20210612.png",
   "description" : "<img style='width:100%;max-width: 750px;' src='img/beaker.gif'></img>",
-  "footer" : "<a href='IG/' style='font-size:40px'><i class='fab fa-instagram'></i></a>",
+  "footer" : "<a href='IG/' style='font-size:40px' rel='nofollow'><i class='fab fa-instagram'></i></a>",
   "htmlelement" : "",
   "toast" : {
     "message" : "看看最新的竹中科研濾鏡吧！",
@@ -40,6 +40,14 @@
       "buttonname" : "Attribution",
       "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/attribution.html','attribution')",
       "target" : "",
+      "enable" : "enable",
+      "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
+      "buttonname" : "Blog",
+      "href" : "https://hcsc-25th.github.io/blog/",
+      "target" : "_blank",
       "enable" : "enable",
       "nofollow" : ""
     }
