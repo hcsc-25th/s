@@ -29,14 +29,6 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "Blog",
-      "href" : "/blog/",
-      "target" : "_blank",
-      "enable" : "enable",
-      "nofollow" : ""
-    },
-    {
-      "htmlbefore" : "",
       "buttonname" : "IG qrcode",
       "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/igqr.html','IG qrcode')",
       "target" : "",
