@@ -42,7 +42,7 @@
       "target" : "_blank",
       "enable" : "enable",
       "nofollow" : ""
-    }
+    },
     {
       "htmlbefore" : "",
       "buttonname" : "IG qrcode",
@@ -58,6 +58,6 @@
       "target" : "",
       "enable" : "enable",
       "nofollow" : ""
-    },
+    }
   ]
 }
