@@ -29,6 +29,22 @@
     },
     {
       "htmlbefore" : "",
+      "buttonname" : "Question Box",
+      "href" : "https://hcsc-25th.github.io/s/question/",
+      "target" : "_blank",
+      "enable" : "enable",
+      "nofollow" : "nofollow"
+    },
+    {
+      "htmlbefore" : "",
+      "buttonname" : "Blog",
+      "href" : "https://hcsc-25th.github.io/blog/",
+      "target" : "_blank",
+      "enable" : "enable",
+      "nofollow" : ""
+    }
+    {
+      "htmlbefore" : "",
       "buttonname" : "IG qrcode",
       "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/igqr.html','IG qrcode')",
       "target" : "",
@@ -43,13 +59,5 @@
       "enable" : "enable",
       "nofollow" : ""
     },
-    {
-      "htmlbefore" : "",
-      "buttonname" : "Blog",
-      "href" : "https://hcsc-25th.github.io/blog/",
-      "target" : "_blank",
-      "enable" : "enable",
-      "nofollow" : ""
-    }
   ]
 }
