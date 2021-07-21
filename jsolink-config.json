@@ -37,8 +37,16 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "Blog",
+      "buttonname" : "部落格",
       "href" : "https://hcsc-25th.github.io/blog/",
+      "target" : "_blank",
+      "enable" : "enable",
+      "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
+      "buttonname" : "竹中科研實驗室",
+      "href" : "https://hcsc-25th.github.io/lab/",
       "target" : "_blank",
       "enable" : "enable",
       "nofollow" : ""
