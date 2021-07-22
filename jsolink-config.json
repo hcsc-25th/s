@@ -4,7 +4,7 @@
   "accountname" : "@hcsc.25th_lab_delight",
   "profilepicture" : "img/profilePicture-20210612.png",
   "description" : "<img style='width:100%;max-width: 750px;' src='img/beaker.gif'></img>",
-  "footer" : "<a href='IG/' style='font-size:40px' rel='nofollow'><i class='fab fa-instagram'></i></a><a href='https://odysee.com/@hcsc-25th:e' style='font-size:40px' rel='nofollow'><i class='fab fa-youtube'></i></a>",
+  "footer" : "<a href='IG/' style='font-size:40px' rel='nofollow'><i class='fab fa-instagram'></i></a><a href='https://odysee.com/@hcsc-25th:e' style='font-size:40px' rel='nofollow'><i class='fas fa-play-circle'></i></a>",
   "htmlelement" : "",
   "toast" : {
     "message" : "物理總是讓你內心受創？我們來聊「熵」| 竹中科研實驗室",
@@ -13,7 +13,7 @@
   "links" : [
     {
       "htmlbefore" : "",
-      "buttonname" : "<i class='fas fa-camera-retro'></i>竹中科研ig濾鏡",
+      "buttonname" : "<i class='fas fa-camera-retro'></i> 竹中科研ig濾鏡",
       "href" : "/filter/",
       "target" : "",
       "enable" : "enable",
@@ -21,7 +21,7 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "<i class='fas fa-envelope'></i>訂閱電子報",
+      "buttonname" : "<i class='fas fa-envelope'></i> 訂閱電子報",
       "href" : "https://hcsc-25th.mailchimpsites.com/",
       "target" : "_blank",
       "enable" : "enable",
@@ -29,7 +29,7 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "<i class='fas fa-question-circle'></i>Question Box",
+      "buttonname" : "<i class='fas fa-question-circle'></i> Question Box",
       "href" : "https://hcsc-25th.github.io/s/question/",
       "target" : "_blank",
       "enable" : "enable",
@@ -37,7 +37,7 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "<i class='fas fa-rss-square'></i>部落格",
+      "buttonname" : "<i class='fas fa-rss-square'></i> 部落格",
       "href" : "https://hcsc-25th.github.io/blog/",
       "target" : "_blank",
       "enable" : "enable",
@@ -45,7 +45,7 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "<i class='fas fa-flask'></i>竹中科研實驗室",
+      "buttonname" : "<i class='fas fa-flask'></i> 竹中科研實驗室",
       "href" : "https://hcsc-25th.github.io/lab/",
       "target" : "_blank",
       "enable" : "enable",
@@ -53,7 +53,7 @@
     },
     {
       "htmlbefore" : "<hr><hr>",
-      "buttonname" : "<i class='fas fa-user'></i>社團幹部",
+      "buttonname" : "<i class='fas fa-user'></i> 社團幹部",
       "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/leaders.html','社幹介紹')",
       "target" : "",
       "enable" : "enable",
@@ -61,7 +61,7 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "<i class='fas fa-qrcode'></i>IG qrcode",
+      "buttonname" : "<i class='fas fa-qrcode'></i> IG qrcode",
       "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/igqr.html','IG qrcode')",
       "target" : "",
       "enable" : "enable",
@@ -69,7 +69,7 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "<i class='fas fa-feather-alt'></i>Attribution",
+      "buttonname" : "<i class='fas fa-feather-alt'></i> Attribution",
       "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/attribution.html','attribution')",
       "target" : "",
       "enable" : "enable",
