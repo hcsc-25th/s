@@ -12,20 +12,20 @@
   },
   "links" : [
     {
-      "htmlbefore" : "<hr>",
-      "buttonname" : "社團幹部",
-      "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/leaders.html','社幹介紹')",
-      "target" : "",
-      "enable" : "enable",
-      "nofollow" : ""
-    },
-    {
       "htmlbefore" : "",
       "buttonname" : "竹中科研ig濾鏡",
       "href" : "/filter/",
       "target" : "",
       "enable" : "enable",
       "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
+      "buttonname" : "<i class='fas fa-envelope'></i>訂閱電子報",
+      "href" : "https://hcsc-25th.mailchimpsites.com/",
+      "target" : "_blank",
+      "enable" : "enable",
+      "nofollow" : "nofollow"
     },
     {
       "htmlbefore" : "",
@@ -48,6 +48,14 @@
       "buttonname" : "竹中科研實驗室",
       "href" : "https://hcsc-25th.github.io/lab/",
       "target" : "_blank",
+      "enable" : "enable",
+      "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "<hr>",
+      "buttonname" : "社團幹部",
+      "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/leaders.html','社幹介紹')",
+      "target" : "",
       "enable" : "enable",
       "nofollow" : ""
     },
