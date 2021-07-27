@@ -29,14 +29,6 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "<i class='fas fa-question-circle'></i> Question Box",
-      "href" : "https://hcsc-25th.github.io/s/question/",
-      "target" : "_blank",
-      "enable" : "enable",
-      "nofollow" : "nofollow"
-    },
-    {
-      "htmlbefore" : "",
       "buttonname" : "<i class='fas fa-rss-square'></i> 部落格",
       "href" : "https://hcsc-25th.github.io/blog/",
       "target" : "_blank",
