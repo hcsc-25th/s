@@ -21,6 +21,14 @@
     },
     {
       "htmlbefore" : "",
+      "buttonname" : "<i class='far fa-newspaper'></i> NEWS",
+      "href" : "https://sl.codeberg.page/",
+      "target" : "_blank",
+      "enable" : "enable",
+      "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
       "buttonname" : "<i class='fas fa-envelope'></i> 訂閱電子報",
       "href" : "https://hcsc-25th.mailchimpsites.com/",
       "target" : "_blank",
