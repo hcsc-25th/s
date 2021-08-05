@@ -13,6 +13,14 @@
   "links" : [
     {
       "htmlbefore" : "",
+      "buttonname" : "<i class='fas fa-home'></i> 主頁",
+      "href" : "/",
+      "target" : "",
+      "enable" : "enable",
+      "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
       "buttonname" : "<i class='fas fa-camera-retro'></i> 竹中科研ig濾鏡",
       "href" : "/filter/",
       "target" : "",
