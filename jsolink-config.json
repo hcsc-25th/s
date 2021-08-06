@@ -4,7 +4,7 @@
   "accountname" : "@hcsc.25th_lab_delight",
   "profilepicture" : "img/profilePicture-20210612.png",
   "description" : "<img style='width:100%;max-width: 750px;' src='img/beaker.gif'></img>",
-  "footer" : "<a href='IG/' style='font-size:40px' rel='nofollow'><i class='fab fa-instagram'></i></a> <a href='https://odysee.com/@hcsc-25th:e' style='font-size:40px' rel='nofollow'><i class='fas fa-play-circle'></i></a>",
+  "footer" : "<a href='https://www.instagram.com/hcsc.25th_lab_delight/' style='font-size:40px' rel='nofollow'><i class='fab fa-instagram'></i></a> <a href='https://www.facebook.com/HCSC25th' style='font-size:40px' rel='nofollow'><i class='fab fa-facebook-square'></i></a> <a href='https://www.youtube.com/channel/UCWjF0P7tWPG4x5DjNxPuuNQ' style='font-size:40px' rel='nofollow'><i class='fas fa-play-circle'></i></a>",
   "htmlelement" : "",
   "toast" : {
     "message" : "🆕近在咫尺卻又形同夢想的太空旅行",
@@ -39,14 +39,6 @@
       "htmlbefore" : "",
       "buttonname" : "<i class='fas fa-envelope'></i> 訂閱電子報",
       "href" : "https://hcsc-25th.mailchimpsites.com/",
-      "target" : "_blank",
-      "enable" : "enable",
-      "nofollow" : "nofollow"
-    },
-    {
-      "htmlbefore" : "",
-      "buttonname" : "<i class='fab fa-youtube-square'></i> youtube",
-      "href" : "https://www.youtube.com/channel/UCWjF0P7tWPG4x5DjNxPuuNQ",
       "target" : "_blank",
       "enable" : "enable",
       "nofollow" : "nofollow"
