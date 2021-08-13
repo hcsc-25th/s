@@ -63,7 +63,7 @@
       "htmlbefore" : "<hr><hr>",
       "buttonname" : "<i class='fas fa-user'></i> 社團幹部",
       "href" : "https://hcsc-25th.github.io/about/leaders.html",
-      "target" : "",
+      "target" : "_blank",
       "enable" : "enable",
       "nofollow" : ""
     },
@@ -71,7 +71,7 @@
       "htmlbefore" : "",
       "buttonname" : "<i class='fas fa-qrcode'></i> QRcode",
       "href" : "https://hcsc-25th.github.io/about/igqr.html",
-      "target" : "",
+      "target" : "_blank",
       "enable" : "enable",
       "nofollow" : ""
     },
