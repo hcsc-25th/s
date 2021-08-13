@@ -21,6 +21,14 @@
     },
     {
       "htmlbefore" : "",
+      "buttonname" : "<i class='far fa-question-circle'></i> 問問題！",
+      "href" : "https://hcsc-25th.github.io/question/",
+      "target" : "_blank",
+      "enable" : "enable",
+      "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
       "buttonname" : "<i class='fas fa-camera-retro'></i> 竹中科研ig濾鏡",
       "href" : "/filter/",
       "target" : "",
@@ -52,25 +60,17 @@
       "nofollow" : ""
     },
     {
-      "htmlbefore" : "",
-      "buttonname" : "<i class='far fa-question-circle'></i> 問問題！",
-      "href" : "https://hcsc-25th.github.io/question/",
-      "target" : "_blank",
-      "enable" : "enable",
-      "nofollow" : ""
-    },
-    {
       "htmlbefore" : "<hr><hr>",
       "buttonname" : "<i class='fas fa-user'></i> 社團幹部",
-      "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/leaders.html','社幹介紹')",
+      "href" : "https://hcsc-25th.github.io/about/leaders.html",
       "target" : "",
       "enable" : "enable",
       "nofollow" : ""
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "<i class='fas fa-qrcode'></i> IG qrcode",
-      "href" : "javascript:openUrlBox('https://hcsc-25th.github.io/about/igqr.html','IG qrcode')",
+      "buttonname" : "<i class='fas fa-qrcode'></i> QRcode",
+      "href" : "https://hcsc-25th.github.io/about/igqr.html",
       "target" : "",
       "enable" : "enable",
       "nofollow" : ""
