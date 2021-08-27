@@ -21,7 +21,7 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "<i class='far fa-question-circle'></i> 問問題！",
+      "buttonname" : "<i class='far fa-question-circle'></i> 匿名問問題！",
       "href" : "https://hcsc-25th.github.io/question/",
       "target" : "_blank",
       "enable" : "enable",
