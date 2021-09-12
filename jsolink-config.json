@@ -21,6 +21,14 @@
     },
     {
       "htmlbefore" : "",
+      "buttonname" : "<i class='far fa-hand-point-right'></i> 社員實驗裝束社團團買表單連結（更多資訊參考貼文）",
+      "href" : "https://tinyurl.com/7dwpxwku",
+      "target" : "_blank",
+      "enable" : "enable",
+      "nofollow" : "nofollow"
+    },
+    {
+      "htmlbefore" : "",
       "buttonname" : "<i class='far fa-question-circle'></i> 匿名問問題！",
       "href" : "https://hcsc-25th.github.io/question/",
       "target" : "_blank",
