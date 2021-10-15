@@ -21,8 +21,8 @@
     },
     {
       "htmlbefore" : "",
-      "buttonname" : "<i class='far fa-question-circle'></i> 匿名問問題！",
-      "href" : "https://hcsc-25th.github.io/question/",
+      "buttonname" : "<i class='fas fa-rss-square'></i> BLOG！",
+      "href" : "https://hcsc-25th.github.io/blog/",
       "target" : "_blank",
       "enable" : "enable",
       "nofollow" : ""
