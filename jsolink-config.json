@@ -3,14 +3,14 @@
   "htmltitle" : "",
   "accountname" : "@hcsc.25th_lab_delight",
   "profilepicture" : "img/profilePicture-20210612.png",
-  "description" : "<blockquote class='imgur-embed-pub' lang='en' data-id='a/c7Em2ME'  ><a href='//imgur.com/a/c7Em2ME'>HCSC25-wallpaper-202111</a></blockquote><script async src='//s.imgur.com/min/embed.js' charset='utf-8'></script>     <img style='width:100%;max-width: 750px;' src='https://cdn.jsdelivr.net/gh/hcsc-25th/s@main/img/beaker.gif'></img>",
+  "description" : "<img style='width:100%;max-width: 750px;' src='https://cdn.jsdelivr.net/gh/hcsc-25th/s@main/img/beaker.gif'></img>",
   "footer" : "<img alt='YouTube Channel Views' src='https://img.shields.io/youtube/channel/views/UCWjF0P7tWPG4x5DjNxPuuNQ?label=%20%E7%AB%B9%E4%B8%AD%E7%A7%91%E7%A0%94%20HCSC%2025TH&style=social'> <br> <a href='https://www.instagram.com/hcsc.25th_lab_delight/' style='font-size:40px' rel='nofollow'><i class='fab fa-instagram'></i></a> <a href='https://www.facebook.com/HCSC25th' style='font-size:40px' rel='nofollow'><i class='fab fa-facebook-square'></i></a> <a href='https://www.youtube.com/channel/UCWjF0P7tWPG4x5DjNxPuuNQ' style='font-size:40px' rel='nofollow'><i class='fas fa-play-circle'></i></a>",
   "htmlelement" : "",
   "toast" : {
     "message" : "🆕線上社博",
     "href" : "https://bit.ly/3sJIGCd"
   },
-  "links" : [
+  "links" : [https://imgur.com/a/c7Em2ME
     {
       "htmlbefore" : "",
       "buttonname" : "<i class='fas fa-home'></i> 主頁",
@@ -50,6 +50,14 @@
       "target" : "_blank",
       "enable" : "enable",
       "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
+      "buttonname" : "<i class='far fa-image'></i> 桌布",
+      "href" : "https://imgur.com/a/c7Em2ME",
+      "target" : "_blank",
+      "enable" : "enable",
+      "nofollow" : "nofollow"
     },
     {
       "htmlbefore" : "",
