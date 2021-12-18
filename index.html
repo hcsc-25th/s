@@ -119,8 +119,10 @@ function createLinkButtonAndAdd(buttonText,myhref,target,enable,nofollow) {
 function reveal_page(){
   var myhtml_container = document.querySelector(".container");
   var myhtml_cover = document.querySelector(".page-cover");
-  myhtml_cover.classList.toggle('display-none');
-  myhtml_container.classList.toggle('display-none');
+  setTimeout(() => {
+    myhtml_cover.classList.toggle('display-none');
+    myhtml_container.classList.toggle('display-none');
+  }, 100);
 }
 
 function openUrlBox(url,title='hcsc25'){
