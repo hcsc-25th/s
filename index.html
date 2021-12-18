@@ -51,6 +51,7 @@ function handleJson(){
     fillinMyConfig(json_data.webpagetitle,json_data.htmltitle,json_data.accountname,json_data.profilepicture,json_data.description,json_data.footer,json_data.htmlelement);
     linkButtonLoop();
     showToast(json_data.toast);
+    reveal_page()
   }
 }
 function fillinMyConfig(webpagetitle,htmltitle,accountname,profilepicture,description,footer,htmlelement) {
@@ -94,7 +95,6 @@ function linkButtonLoop() {
     }
     createLinkButtonAndAdd(links_data.links[i].buttonname,links_data.links[i].href,links_data.links[i].target,links_data.links[i].enable,links_data.links[i].nofollow);
   }
-  reveal_page();
 }
 function createLinkButtonAndAdd(buttonText,myhref,target,enable,nofollow) {
   var myLinksDiv = document.querySelector(".my-links");
@@ -119,10 +119,8 @@ function createLinkButtonAndAdd(buttonText,myhref,target,enable,nofollow) {
 function reveal_page(){
   var myhtml_container = document.querySelector(".container");
   var myhtml_cover = document.querySelector(".page-cover");
-  setTimeout(function(){
-    myhtml_cover.classList.toggle('display-none');
-    myhtml_container.classList.toggle('display-none');
-  },300)
+  myhtml_cover.classList.toggle('display-none');
+  myhtml_container.classList.toggle('display-none');
 }
 
 function openUrlBox(url,title='hcsc25'){
