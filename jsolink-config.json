@@ -29,6 +29,14 @@
     },
     {
       "htmlbefore" : "",
+      "buttonname" : "<i class='fas fa-moon'></i> 北星南月 星月交輝 聯合寒訓",
+      "href" : "https://sc2022.wixsite.com/nssm",
+      "target" : "_blank",
+      "enable" : "enable",
+      "nofollow" : ""
+    },
+    {
+      "htmlbefore" : "",
       "buttonname" : "<i class='far fa-newspaper'></i> NEWS",
       "href" : "https://hcsc-25th.github.io/news/",
       "target" : "_blank",
