@@ -127,11 +127,10 @@ function reveal_page(){
   var myhtml_container = document.querySelector(".container");
   var myhtml_cover = document.querySelector(".page-cover");
   setTimeout(() => {
-    myhtml_cover.classList.add('display-none');
-    setTimeout(() => {
-      myhtml_container.classList.remove('display-none');
-    }, 100);
-  }, 1200);
+    myhtml_cover.classList.toggle('display-none');
+    myhtml_container.classList.toggle('display-none');
+    console.log("toggle")
+  }, 1000);
 }
 
 function openUrlBox(url,title='hcsc25'){
