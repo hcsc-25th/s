@@ -36,6 +36,28 @@
 
     <div class="logo"><a href="https://hcsc-25th.github.io/"><span>Lab Delight </span></a></div>
   </div>
+  
+  <div class="modal micromodal-slide" id="modal-1" aria-hidden="true">
+    <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+      <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title">
+        <header class="modal__header">
+          <h2 class="modal__title" id="modal-1-title">
+            Micromodal
+          </h2>
+          <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
+        </header>
+        <main class="modal__content" id="modal-1-content">
+          <p>
+            Try hitting the <code>tab</code> key and notice how the focus stays within the modal itself. Also, <code>esc</code> to close modal.
+          </p>
+        </main>
+        <footer class="modal__footer">
+          <button class="modal__btn modal__btn-primary">Continue</button>
+          <button class="modal__btn" data-micromodal-close aria-label="Close this dialog window">Close</button>
+        </footer>
+      </div>
+    </div>
+  </div>
 
 <script src="js/winbox.bundle.js"></script>
 <script src="js/Toast.min.js"></script>
@@ -165,26 +187,10 @@ function showToast(toast){
   }
 }
 </script>
-<script src="https://unpkg.com/@reecem/h-bar?umd"></script>
+<script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
 <script>
-    hBar.init({
-        url: "https://httpbin.org/delay/2?title=What+A+Wonderful+Chicken+Pie&link=http%3A%2F%2Flocalhost&secondaryLinks=%5B%7B%5C%22link%5C%22%3A+%5C%22http%3A%2F%2Fdocs.localhost.com%5C%22%2C+%5C%22title%5C%22%3A+%5C%22Info%5C%22%7D%5D",
-        secondaryLinks: [
-            {
-                title: "Docs",
-                link: "http:://docs.example.com"
-            },
-            {
-                title: "Support",
-                link: "http://help.example.com"
-            }
-        ],
-        options: {
-            theme: "blue",
-        }
-    });
-
-    hBar.fetchData()
+  MicroModal.init()  
+  MicroModal.show('modal-1')
 </script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-X26T9HYHGY"></script>
